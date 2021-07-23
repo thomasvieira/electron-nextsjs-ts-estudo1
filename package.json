@@ -4,6 +4,7 @@
   "main": "main/index.js",
   "license": "MIT",
   "author": "Thomas Eusebio Vieira(template by Leonard Lamprecht)",
+  "description": "Estudo de desenvolvimento de APP Windows usando Electron, Next.js e Typescript",
   "repository": "https://github.com/thomasvieira/electron-nextsjs-ts-estudo1",
   "scripts": {
     "start": "electron .",
