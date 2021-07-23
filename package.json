@@ -1,8 +1,9 @@
 {
-  "name": "electron-next-skeleton-ts",
+  "name": "electron-nextsjs-ts-estudo1",
   "version": "1.0.0",
   "main": "main/index.js",
   "license": "MIT",
+  "author": "Thomas Eusebio Vieira(template by Leonard Lamprecht)",
   "repository": "https://github.com/thomasvieira/electron-nextsjs-ts-estudo1",
   "scripts": {
     "start": "electron .",

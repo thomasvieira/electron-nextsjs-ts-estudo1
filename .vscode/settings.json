@@ -28,5 +28,12 @@
     "**/node_modules": true,
     "**/bower_components": true,
     ".next": true
-  }
+  },
+  "cSpell.words": [
+    "electron",
+    "estudo",
+    "lamprecht",
+    "nextsjs",
+    "ts"
+  ]
 }

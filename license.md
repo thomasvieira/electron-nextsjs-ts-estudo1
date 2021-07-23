@@ -1,6 +1,7 @@
 MIT License
 
-Copyright (c) 2018 Leonard Lamprecht
+Copyright (c) 2018 Leonard Lamprecht(all codes and config from first commit)
+Copyright (c) 2021(all other codes)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
